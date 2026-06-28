@@ -16,6 +16,8 @@ Bot dapat menyimpan:
 - ID pengguna Discord.
 - ID server (guild).
 - ID channel.
+- ID role discord
+- Data umum
 - Pengaturan server yang dikonfigurasi melalui Bot.
 - Data lain yang diperlukan untuk menjalankan fitur Bot.
 Bot tidak menjual data pengguna kepada pihak ketiga.
