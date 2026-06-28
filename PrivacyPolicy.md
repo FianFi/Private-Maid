@@ -4,7 +4,7 @@ Last Updated: June 24, 2026
 
 ## Introduction
 
-This Privacy Policy explains how Private Maid. We collects, uses, stores, and protects information when users interact with the Bot through Discord.
+This Privacy Policy explains how "Private Maid", "Fian Fantasy World", and other works by the Fian Bot teams. We collects, uses, stores, and protects information when users interact with the Bot through Discord.
 
 By using the Bot, you agree to the practices described in this Privacy Policy.
 
