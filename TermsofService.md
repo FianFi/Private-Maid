@@ -3,7 +3,7 @@
 **Terakhir diperbarui: 24 Juni 2026**
 
 ### **1. Persetujuan**
-Dengan mengundang atau menggunakan bot "Private Maid", Anda setuju untuk mematuhi Terms of Service ini.
+Dengan mengundang atau menggunakan bot "Private Maid","Fian Fantasy World", dan karya Fian Bot Teams lainnya. Anda setuju untuk mematuhi Terms of Service ini.
 
 ### **2. Penggunaan Bot**
 Pengguna setuju untuk:
