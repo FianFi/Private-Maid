@@ -1,4 +1,4 @@
-# Terms of Service / Ketentuan Layanan - [Nama Bot]
+# Terms of Service / Ketentuan Layanan - FianBots
 
 **Effective Date / Tanggal Berlaku:** 22 Nov 2026\
 **Last Updated / Terakhir Diperbarui:** 22 Nov 2026
