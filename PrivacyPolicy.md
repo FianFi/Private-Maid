@@ -1,97 +1,74 @@
-# Privacy Policy
+# Privacy Policy / Kebijakan Privasi - [Nama Bot]
 
-Last Updated: June 24, 2026
-
-## Introduction
-
-This Privacy Policy explains how "Private Maid", "Fian Fantasy World", and other works by the Fian Bot teams. We collects, uses, stores, and protects information when users interact with the Bot through Discord.
-
-By using the Bot, you agree to the practices described in this Privacy Policy.
+**Effective Date / Tanggal Berlaku:** 22 Nov 2026\
+**Last Updated / Terakhir Diperbarui:** 22 Nov 2026
 
 ---
 
-## Information We Collect
+### [EN] Privacy Policy
 
-The Bot may collect and store the following information when necessary for its functionality:
+This Privacy Policy explains how **FianBots** ("we", "us", or "the Bot") collects, uses, stores, and protects information when you interact with our services.
 
-- Discord User IDs
-- Discord Server (Guild) IDs
-- Discord Channel IDs
-- Discord Role IDs
-- Command usage data
-- Server-specific configuration settings
-- User preferences related to Bot features
+#### 1. Data We Collect
+We only collect the minimum amount of data required to provide the Bot’s functionality:
+- **User Identifiers:** Discord User IDs, usernames, and avatars.
+- **Server (Guild) Identifiers:** Guild IDs, channel IDs, and role IDs for storing server-specific configurations and permissions.
+- **Command & Error Logs:** Records of command invocations, timestamps, and error traces for debugging, rate-limiting, and stability.
+- *Chat Messages:* We do **not** read or store regular message content, unless explicitly required by a specific feature (such as support ticket transcripts or moderation filters).
 
-The Bot does not collect passwords, payment information, or other sensitive personal information.
+#### 2. How We Use Data
+The collected information is solely used to:
+- Enable, operate, and maintain the features of the Bot.
+- Save custom server preferences, roles, and settings.
+- Monitor stability, prevent spam/abuse, and resolve technical bugs.
 
----
+#### 3. Data Storage & Security
+- Data is stored in secure, password-protected databases accessible only by authorized developers.
+- We **never** sell, trade, rent, or disclose your personal data to any third parties, except when strictly required by law.
 
-## How We Use Information
+#### 4. Data Retention & Deletion Rights
+- Data is retained only as long as necessary for the Bot's operations or until the Bot is removed from the server.
+- **Data Deletion Requests:** You have the right to request the deletion of any personal or server data stored by the Bot. To submit a request, contact us via our Support Server or email. All associated data will be removed within [e.g., 7 - 14] days.
 
-Collected information may be used to:
+#### 5. Third-Party Services
+The Bot operates on top of Discord's API and is hosted using third-party infrastructure - . We are not responsible for the privacy practices of Discord or the underlying hosting providers.
 
-- Provide and maintain Bot functionality
-- Store server configurations
-- Respond to commands and interactions
-- Improve Bot performance and reliability
-- Prevent abuse, spam, or unauthorized use
-
----
-
-## Data Storage
-
-Data may be stored in databases, files, or other storage systems controlled by the Bot developer.
-
-Data is retained only for as long as necessary to provide the Bot's services.
-
----
-
-## Data Sharing
-
-We do not sell, rent, or trade user data to third parties.
-
-Information may only be disclosed if:
-
-- Required by law
-- Necessary to comply with legal obligations
-- Necessary to protect the security, rights, or integrity of the Bot and its users
+#### 6. Contact Us
+For any privacy concerns or data requests, please contact:
+- **Discord Support Server:** -
+- **Email / Developer Contact:** fianfadrik@gmail.com
 
 ---
 
-## Third-Party Services
+### [ID] Kebijakan Privasi
 
-The Bot operates through Discord and may rely on third-party hosting providers or infrastructure services.
+Kebijakan Privasi ini menjelaskan bagaimana **FianBots** ("kami" atau "Bot") mengumpulkan, menggunakan, menyimpan, dan melindungi informasi saat Anda menggunakan layanan kami.
 
-Use of Discord is also subject to Discord's own Privacy Policy and Terms of Service.
+#### 1. Data yang Kami Kumpulkan
+Kami hanya mengumpulkan data seminimal mungkin yang diperlukan agar fitur Bot dapat berjalan:
+- **Identitas Pengguna:** ID Pengguna Discord (User ID), *username*, dan avatar.
+- **Identitas Server (Guild):** ID Server, ID Saluran (*channel*), dan ID Peran (*role*) untuk menyimpan konfigurasi dan perizinan server.
+- **Log Perintah & Galat:** Catatan penggunaan perintah, waktu eksekusi, serta log galat (*error logs*) untuk keperluan pemeliharaan teknis dan pencegahan spam.
+- *Pesan Obrolan:* Kami **tidak** membaca atau menyimpan isi pesan obrolan umum Anda, kecuali secara eksplisit diperlukan untuk fitur tertentu (seperti transkrip tiket bantuan atau sistem moderasi).
 
----
+#### 2. Cara Kami Menggunakan Data
+Data yang dikumpulkan hanya digunakan untuk:
+- Menjalankan, mengoperasikan, dan memelihara fitur-fitur Bot.
+- Menyimpan pengaturan kustom, konfigurasi, dan preferensi server Anda.
+- Menjaga stabilitas performa, mencegah penyalahgunaan (*abuse*), serta memperbaiki masalah teknis.
 
-## Data Deletion Requests
+#### 3. Penyimpanan & Keamanan Data
+- Data disimpan di basis data (*database*) aman yang dilindungi kata sandi dan hanya dapat diakses oleh pengembang resmi Bot.
+- Kami **tidak pernah** menjual, menyewakan, atau membagikan data Anda kepada pihak ketiga mana pun, kecuali diwajibkan oleh hukum yang berlaku.
 
-Server administrators may request deletion of server-specific data.
+#### 4. Retensi & Hak Penghapusan Data
+- Data disimpan selama diperlukan untuk operasional Bot atau hingga Bot dikeluarkan dari server Anda.
+- **Permintaan Penghapusan Data:** Anda berhak meminta penghapusan seluruh data akun atau server Anda yang tersimpan di sistem kami. Anda dapat mengajukan permintaan penghapusan kapan saja melalui Server Dukungan Discord atau kontak kami. Data akan dihapus dalam waktu [contoh: 7 - 14] hari kerja.
 
-Users may request deletion of personal data associated with their Discord User ID by contacting the developer.
+#### 5. Layanan Pihak Ketiga
+Bot ini terhubung dengan API Discord dan dihosting di penyedia layanan pihak ketiga - . Kebijakan privasi Discord dan penyedia hosting berlaku secara independen di luar kendali kami.
 
----
-
-## Security
-
-Reasonable measures are taken to protect stored information. However, no method of electronic storage or transmission is completely secure, and we cannot guarantee absolute security.
-
----
-
-## Children's Privacy
-
-The Bot is not intended for users who are prohibited from using Discord under Discord's Terms of Service.
-
----
-
-## Changes to This Privacy Policy
-
-We reserve the right to update or modify this Privacy Policy at any time.
-
-Changes become effective immediately upon publication of the updated version.
-
----
-
-By using the Bot, you acknowledge that you have read and understood this Privacy Policy.
+#### 6. Hubungi Kami
+Untuk pertanyaan, kendala privasi, atau permintaan penghapusan data, hubungi kami di:
+- **Server Dukungan Discord:** -
+- **Email / Kontak Pengembang:** fianfadrik@gmail.com
