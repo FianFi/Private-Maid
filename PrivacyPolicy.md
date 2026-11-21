@@ -1,4 +1,4 @@
-# Privacy Policy / Kebijakan Privasi - [Nama Bot]
+# Privacy Policy / Kebijakan Privasi - FianBots
 
 **Effective Date / Tanggal Berlaku:** 22 Nov 2026\
 **Last Updated / Terakhir Diperbarui:** 22 Nov 2026
